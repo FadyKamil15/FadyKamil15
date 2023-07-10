@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FadyKamil15
+- 👋 Hi, I’m @FadyKamil
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning mechatronics engineering
 - 💞️ I’m looking to collaborate on ...
